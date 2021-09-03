@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Eyes White Dragon",
+    "atk": 3000,
+    "def": 2500
+  },
+  {
+    "id": 2,
+    "name": "Time Wizard",
+    "atk": 500,
+    "def": 400
+  },
+  {
+    "id": 3,
+    "name": "Dark Magician",
+    "atk": 2500,
+    "def": 2100
+  },
+  {
+    "id": 4,
+    "name": "Kuriboh",
+    "atk": 300,
+    "def": 500
+  }
+]
